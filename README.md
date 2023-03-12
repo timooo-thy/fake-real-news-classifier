@@ -1,4 +1,4 @@
-# fake-real-news-classifier
+# Fake/Real News Detection
 News Classification (real and fake news dataset from kaggle)
 # About
 
