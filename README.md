@@ -12,12 +12,13 @@ News Classification (real and fake news dataset from kaggle)
   - Text leaks 
   - Date leaks
   - URL leaks
-  - Duplicates
+
 2) Basic NLP data cleaning
   - Contractions
   - Punctuations 
   - Spaces
   - Lowercase
+  - Duplicates
 
 # Analysis Done
 1) NLTK and WordCloud analysis
