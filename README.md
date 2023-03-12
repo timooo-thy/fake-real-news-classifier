@@ -1,5 +1,5 @@
 # Fake/Real News Detection
-News Classification (real and fake news dataset from kaggle)
+News Classification (Dataset from Kaggle)
 # About
 
 # Contributors
