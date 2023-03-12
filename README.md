@@ -18,9 +18,9 @@ News Classification (real and fake news dataset from kaggle)
 4) Subject analysis
 
 # Models Used
-1) Machine Learning with Logistic Regression (Sentiment Score and Bag of Words)
-2) Pytorch Deep Learning using BERT BASE UNCASED (model not included in github due to large file size)
-3) Keras ANN Deep Learning using tokenizer for preprocessing text (model included)
+1) Logistic Regression (Sentiment Score and Bag of Words)
+2) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
+3) Keras ANN using Tokenizer for preprocessing text (model included)
 4) XGBoost Deep Learning using TF-IDF to vectorise text (model included)
 5) XGBoost 5-Fold Cross Validation
 
@@ -30,3 +30,8 @@ News Classification (real and fake news dataset from kaggle)
 
 # References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+2) https://huggingface.co/bert-base-uncased
+3) https://keras.io/api/keras_nlp/tokenizers/tokenizer/
+4) https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+5) https://towardsdatascience.com/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971
+6) https://monkeylearn.com/sentiment-analysis/
