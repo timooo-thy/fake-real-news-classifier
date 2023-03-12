@@ -8,8 +8,16 @@ News Classification (real and fake news dataset from kaggle)
 # Problem Definition
 
 # Cleaning Methods
-1) Identify information leaks (text leaks, date leaks, url leaks)
-2) Basic NLP data cleaning (punctuations, spaces, lowercase, contractions, duplicates)
+1) Identify information leaks
+  - Text leaks 
+  - Date leaks
+  - URL leaks
+  - Duplicates
+2) Basic NLP data cleaning
+  - Contractions
+  - Punctuations 
+  - Spaces
+  - Lowercase
 
 # Analysis Done
 1) NLTK and WordCloud analysis
