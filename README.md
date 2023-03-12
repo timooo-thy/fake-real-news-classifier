@@ -1,4 +1,4 @@
-# Fake-Real-News-Classifier
+# fake-real-news-classifier
 News Classification (real and fake news dataset from kaggle)
 
 1) Identify information leaks
