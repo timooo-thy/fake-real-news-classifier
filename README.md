@@ -3,7 +3,7 @@ News Classification (real and fake news dataset from kaggle)
 # About
 
 # Contributors
-@timooo-thy
+[@timooo-thy](https://github.com/timooo-thy)
 
 # Problem Definition
 
