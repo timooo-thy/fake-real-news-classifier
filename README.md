@@ -28,10 +28,12 @@ News Classification (Dataset from Kaggle)
 
 # Models Used
 1) Logistic Regression (Sentiment Score and Bag of Words)
-2) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
-3) Keras ANN using Tokenizer for preprocessing text (model included)
-4) XGBoost Deep Learning using TF-IDF to vectorise text (model included)
-5) XGBoost 5-Fold Cross Validation
+2) Binary Tree Classification
+3) Random Forest
+4) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
+5) Keras ANN using Tokenizer for preprocessing text (model included)
+6) XGBoost Deep Learning using TF-IDF to vectorise text (model included)
+7) XGBoost 5-Fold Cross Validation
 
 # Conclusion
 
