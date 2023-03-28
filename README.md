@@ -34,12 +34,15 @@ We're hoping that our fake news classification system will be really useful for 
 4) Subject analysis
 
 # Models Used
+## Machine Learning Models:
 1) Logistic Regression (Sentiment Score and Bag of Words)
 2) Binary Tree Classification
 3) Random Forest with Cross Validation
-4) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
-5) Keras ANN using Tokenizer for preprocessing text (model included)
-6) XGBoost Deep Learning using TF-IDF to vectorise text (model included) with Cross Validation
+4) XGBoost Deep Learning using TF-IDF to vectorise text (model included) with Cross Validation
+## Deep Learning Models:
+1) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
+2) Keras ANN using Tokenizer for preprocessing text (model included)
+
 
 # Further Testing (on an unseen dataset)
 We tested our models (keras and xgboost) on a completely new dataset to test its perfomance against real world news.
