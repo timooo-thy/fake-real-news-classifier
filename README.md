@@ -1,7 +1,7 @@
 # Fake/Real News Detection
 News Classification (Dataset from Kaggle)
 # About
-Our project is all about fighting fake news by building a system that can automatically tell if a news article is real or fake. In today's world of social media and online news, it's becoming harder to know what to believe. That's where our machine learning model comes in - it analyses the content of news articles using fancy language processing techniques to figure out if they're telling the truth or not.
+Our project is all about fighting fake news by building a system that can automatically tell if a news article is real or fake. In today's world of social media and online news, it's becoming harder to know what to believe. 
 
 To address this problem, we have built a machine learning model that uses natural language processing techniques to analyse the content of news articles and determine their credibility. We trained our model on a large dataset of labeled news articles, which we carefully curated to include examples of both real and fake news.
 
