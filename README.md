@@ -1,4 +1,4 @@
-# Fake/Real News Detection
+# Fake News Classifier
 News Classification (Dataset from Kaggle)
 # About
 Our project is all about fighting fake news by building a system that can automatically tell if a news article is real or fake. In today's world of social media and online news, it's becoming harder to know what to believe. 
