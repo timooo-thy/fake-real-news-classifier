@@ -14,6 +14,8 @@ We're hoping that our fake news classification system will be really useful for 
 
 [@spinelessknave8](http://github.com/spinelessknave8)
 
+[@svftbuns](http://github.com/svftbuns)
+
 # Problem Definition
 
 # Cleaning Methods
