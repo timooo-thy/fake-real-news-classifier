@@ -52,12 +52,19 @@ We're hoping that our fake news classification system will be really useful for 
 We tested our models (keras and xgboost) on a completely new dataset to test its perfomance against real world news.
 
 # Conclusion
-We concluded that deep learning models are the best for this problem since they excel and handling large amounts of data and can find nuanced patterns and complex features that are not immediately visible.
+We concluded that deep learning models are the best for this problem since they excel at handling large amounts of data and can find nuanced patterns and complex features that are not immediately visible. Additionally, the ability to automatically extract hierarchical representations make these models excel at NLP applications.
 
 # Takeaways
 1) Text outperformed title in most cases.
-2) Bringing in additional features like sentiment help refine our models even more
-3) Deep learning models need a lot of computational power
+2) NLP features like sentiment anaylsis help refine our models.
+3) Deep learning models require a lot of computational power for large datasets.
+4) Overfitting is a common issue and there is a tradeoff between "too much capacity" (overfitting) VS "too little capacity" (not converging).
+
+# Future Improvements
+1) Reduce overfiitng by starting with a few layers and parameters and increase it until we see diminishing return with regard to validation loss.
+
+2) Aim to include models that can detect sarcasm and irony based on context. Improved models can better capture and analyse context which can greatly improve the accuracy of our news classifier.
+
 # References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 2) https://huggingface.co/bert-base-uncased
