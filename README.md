@@ -52,9 +52,12 @@ We're hoping that our fake news classification system will be really useful for 
 We tested our models (keras and xgboost) on a completely new dataset to test its perfomance against real world news.
 
 # Conclusion
+We concluded that deep learning models are the best for this problem since they excel and handling large amounts of data and can find nuanced patterns and complex features that are not immediately visible.
 
 # Takeaways
-
+1) Text outperformed title in most cases.
+2) Bringing in additional features like sentiment help refine our models even more
+3) Deep learning models need a lot of computational power
 # References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 2) https://huggingface.co/bert-base-uncased
