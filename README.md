@@ -11,6 +11,7 @@ We're hoping that our fake news classification system will be really useful for 
 
 # Contributors
 [@timooo-thy](https://github.com/timooo-thy)
+[@spinelessknave8](http://github.com/spinelessknave8)
 
 # Problem Definition
 
