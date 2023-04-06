@@ -16,7 +16,8 @@ We're hoping that our fake news classification system will be really useful for 
 
 [@svftbuns](http://github.com/svftbuns)
 
-# Problem Definition
+# Problem Statement
+"Is this news article real or fake?"
 
 # Cleaning Methods
 1) Identify information leaks
