@@ -47,7 +47,6 @@ We're hoping that our fake news classification system will be really useful for 
 1) Pytorch using Bert Based Uncased Model (model not included in github due to large file size)
 2) Keras ANN using Tokenizer for preprocessing text (model included)
 
-
 # Further Testing (on an unseen dataset)
 We tested our models (keras and xgboost) on a completely new dataset to test its perfomance against real world news.
 
@@ -64,6 +63,9 @@ We concluded that deep learning models are the best for this problem since they 
 1) Reduce overfiitng by starting with a few layers and parameters and increase it until we see diminishing return with regard to validation loss.
 
 2) Aim to include models that can detect sarcasm and irony based on context. Improved models can better capture and analyse context which can greatly improve the accuracy of our news classifier.
+
+# Presentation Video
+[Fake News Classifier](https://youtu.be/Elc5tNLbSpU)
 
 # References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
