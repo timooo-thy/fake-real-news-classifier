@@ -1,5 +1,5 @@
-# Fake News Classifier
-News Classification (Dataset from Kaggle)
+# Fake News Classifier (Dataset from Kaggle)
+![alt text](https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80)
 ## About
 Our project is all about fighting fake news by building a system that can automatically tell if a news article is real or fake. In today's world of social media and online news, it's becoming harder to know what to believe. 
 
@@ -76,3 +76,5 @@ We concluded that deep learning models are the best for this problem since they 
 5) https://towardsdatascience.com/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971
 6) https://monkeylearn.com/sentiment-analysis/
 7) https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+8) https://unsplash.com/@obionyeador?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+  
