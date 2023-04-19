@@ -68,7 +68,7 @@ We concluded that deep learning models are the best for this problem since they 
 |------------------|---------------------------------------------------------|
 | Timothy Lee      | [@timooo-thy](https://github.com/timooo-thy)            |
 | Jain Amitbikram  | [@spinelessknave8](http://github.com/spinelessknave8)   |
-| Vivian Kho       | [2svftbuns](http://github.com/svftbuns)                 |
+| Vivian Kho       | [@svftbuns](http://github.com/svftbuns)                 |
 
 ## References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
