@@ -49,7 +49,7 @@ We concluded that deep learning models are the best for this problem since they 
 
 ## Takeaways
 1) Text outperformed title in most cases.
-2) NLP features like sentiment anaylsis help refine our models.
+2) NLP features like sentiment analysis help refine our models.
 3) Deep learning models require a lot of computational power for large datasets.
 4) Overfitting is a common issue and there is a tradeoff between "too much capacity" (overfitting) VS "too little capacity" (not converging).
 
