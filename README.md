@@ -54,7 +54,7 @@ We concluded that deep learning models are the best for this problem since they 
 4) Overfitting is a common issue and there is a tradeoff between "too much capacity" (overfitting) VS "too little capacity" (not converging).
 
 ## Future Improvements
-1) Reduce overfiitng by starting with a few layers and parameters and increase it until we see diminishing return with regard to validation loss.
+1) Reduce overfitting by starting with a few layers and parameters and increase it until we see diminishing return with regard to validation loss.
 
 2) Aim to include models that can detect sarcasm and irony based on context. Improved models can better capture and analyse context which can greatly improve the accuracy of our news classifier.
 
