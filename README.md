@@ -64,11 +64,11 @@ We concluded that deep learning models are the best for this problem since they 
 [Fake News Classifier](https://youtu.be/Elc5tNLbSpU)
 
 ## Contributors
-[Timothy Lee](https://github.com/timooo-thy)
-
-[Jain Amitbikram](http://github.com/spinelessknave8)
-
-[Vivian Kho](http://github.com/svftbuns)
+| Name             | Github Account                                          |
+|------------------|---------------------------------------------------------|
+| Timothy Lee      | [@timooo-thy](https://github.com/timooo-thy)            |
+| Jain Amitbikram  | [@spinelessknave8](http://github.com/spinelessknave8)   |
+| Vivian Kho       | [2svftbuns](http://github.com/svftbuns)                 |
 
 ## References
 1) https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
