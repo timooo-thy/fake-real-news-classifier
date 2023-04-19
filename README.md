@@ -58,6 +58,8 @@ We concluded that deep learning models are the best for this problem since they 
 
 2) Aim to include models that can detect sarcasm and irony based on context. Improved models can better capture and analyse context which can greatly improve the accuracy of our news classifier.
 
+3) Build a working website with HTML, CSS and JS that can incorporate our model to detect fake news based on the article. This offers functionality and usability of the deep learning model we trained.
+
 ## Presentation Video
 [Fake News Classifier](https://youtu.be/Elc5tNLbSpU)
 
